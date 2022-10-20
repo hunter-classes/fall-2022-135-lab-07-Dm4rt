@@ -6,5 +6,5 @@ main.o: main.cpp utility.h
 utility.o: utility.cpp utility.h
 
 clean:
-	rem -f main.o utility.o
+	rm -f main.o utility.o
 

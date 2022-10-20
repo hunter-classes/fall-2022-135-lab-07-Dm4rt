@@ -3,9 +3,7 @@
 * Last name:Martinez
 * First name:Daniel
 * GitHub username:Dm4rt
-* Notes:
-
-
+* Notes:The program creates a good-code.cpp file that copys over the code with no leading white spaces and then a better-code.cpp file is created that copys over that code with the correct indentation
   
 * General instructions:
 - Fill in your name and GitHub username on top.
